@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-💫 About Me:<br>🎓 BCA Student | AI & Machine Learning Enthusiast<br><br>I am passionate about building intelligent systems using Machine Learning and Deep Learning.  <br>Currently exploring neural networks, model optimization, and deployment of ML models.<br><br>🔭 Current Focus:<br>• Machine Learning & Deep Learning<br>• Neural Networks using PyTorch<br>• AI model deployment with APIs and Streamlit<br><br>💻 Tech Stack:<br>Python | NumPy | Pandas | Scikit-Learn | PyTorch | Machine Learning | Deep Learning<br><br>🚀 Projects:<br>• Loan Approval Prediction ML Model<br>• Trucker Charge Navigator India<br><br>🎯 Career Goal:<br>To become an AI Engineer and develop AI solutions for real-world problems.
+💫 About Me:<br>🎓 BCA Student | AI & Machine Learning Enthusiast<br><br>I am passionate about building intelligent systems using Machine Learning and Deep Learning.  <br>Currently exploring neural networks, model optimization, and deployment of ML models.<br><br>🔭 Current Focus:<br>• Machine Learning & Deep Learning<br>• Neural Networks using PyTorch<br>• AI model deployment with APIs and Streamlit<br><br>💻 Tech Stack:<br>Python | NumPy | Pandas | Scikit-Learn | PyTorch | Machine Learning | Deep Learning<br><br>🚀 Projects:<br>• Loan Approval Prediction ML Model<br>🎯 Career Goal:<br>To become an AI Engineer and develop AI solutions for real-world problems.
 
 
 
